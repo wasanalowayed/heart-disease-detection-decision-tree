@@ -44,6 +44,6 @@ using metrics such as accuracy, precision, recall, or others depending on the ta
 
 # Actors: 
 
-Sadeem Alnfeisah
-Lulu Altuwijri
-Wasan Alowayed
+- Sadeem Alnfeisah
+- Lulu Altuwijri
+- Wasan Alowayed
