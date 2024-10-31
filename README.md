@@ -1,7 +1,7 @@
 # Table of Contents:
 
 - Introduction
-- Describe The Decision Trees Algorithm
+- Describe The Decision Tree Algorithm
 - Steps of The Algorithm
 - Actors
 
@@ -14,7 +14,7 @@ is to use a well-known algorithm in machine learning called Decision Tree, so th
 a model that predicts the values for a target variable by teaching it on labeled data.
 
 
-# Describe The Decision Trees Algorithm:
+# Describe The Decision Tree Algorithm:
 
 Decision Tree is a Supervised learning technique that can be used for both classification and
 Regression problems, but mostly it is preferred for solving Classification problems. It is a tree-
