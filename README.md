@@ -3,7 +3,7 @@
 - Introduction
 - Describe The Decision Tree Algorithm
 - Steps of The Algorithm
-- Actors
+- Authors
 
 
 # Introduction:
@@ -50,7 +50,7 @@ using metrics such as accuracy, precision, recall, or others depending on the ta
 (classification or regression).
 
 
-# Actors: 
+# Authors: 
 
 - Sadeem Alnfeisah
 - Lulu Altuwijri
