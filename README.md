@@ -41,3 +41,9 @@ do not provide much predictive power.
 7. Evaluate the performance: Finally, the performance of the decision tree model is evaluated
 using metrics such as accuracy, precision, recall, or others depending on the task
 (classification or regression).
+
+# Actors: 
+
+Sadeem Alnfeisah
+Lulu Altuwijri
+Wasan Alowayed
